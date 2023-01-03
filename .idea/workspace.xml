@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fc201a7-b004-414f-b47b-d0b78ce78d47" name="Changes" comment="[생성자 패턴] 싱글톤 패턴 기본형 예제 추가">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/iteabang/constructor/Singleton2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/iteabang/constructor/Singleton3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/iteabang/constructor/Singleton4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kr/iteabang/behavior/SingletonTest.java" afterDir="false" />
+    <list default="true" id="3fc201a7-b004-414f-b47b-d0b78ce78d47" name="Changes" comment="[생성자 패턴] 싱글톤 패턴 성능, Thread-Safe 개선 예제 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kr/iteabang/constructor/Singleton1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/iteabang/constructor/Singleton1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/kr/iteabang/behavior/Singleton1Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672752352105</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[생성자 패턴] 싱글톤 패턴 성능, Thread-Safe 개선 예제 추가">
+      <created>1672755939634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672755939634</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,6 +251,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[생성자 패턴] 싱글톤 패턴 기본형 예제 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="[생성자 패턴] 싱글톤 패턴 기본형 예제 추가" />
+    <MESSAGE value="[생성자 패턴] 싱글톤 패턴 성능, Thread-Safe 개선 예제 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="[생성자 패턴] 싱글톤 패턴 성능, Thread-Safe 개선 예제 추가" />
   </component>
 </project>
